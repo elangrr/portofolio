@@ -133,7 +133,7 @@ export const Testnet = () => {
                                 <a href="https://github.com/elangrr/testnet_manuals/tree/main/sui" target="_blank"><h5>Sui Network</h5></a>
                            </div>
                                 <div className="item">
-                                <a href="https://github.com/elangrr/testnet_manuals/tree/main/point" target="_blank"><img src={meter16} alt="Image" /></a>
+                                <a href="https://github.com/elangrr/testnet_manuals/tree/main/point" target="_blank"><img src={meter20} alt="Image" /></a>
                                 <a href="https://github.com/elangrr/testnet_manuals/tree/main/spoint" target="_blank"><h5>Point Network</h5></a>
                             </div>
                         </Carousel>
