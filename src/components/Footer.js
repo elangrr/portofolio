@@ -31,7 +31,7 @@ export const Footer = () => {
                 <a href="https://twitter.com/" target="_blank"><img src={navIcon3} alt="Twitter" /></a>
                 <a href="https://youtube.com" target="_blank"><img src={navIcon4} alt="Youtube" /></a>
             </div>
-            <p>Made by elang,</p>
+            <p>Made by Indonode</p>
           </Col>
         </Row>
       </Container>

@@ -10,8 +10,8 @@ export const Team = () => {
 
   const team = [
     {
-      title: "elang,",
-      description: "Founder",
+      title: "Indonode",
+      description: "Team",
       imgUrl: projImg1,
     }
   ];
