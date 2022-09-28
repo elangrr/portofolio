@@ -130,7 +130,7 @@ export const Testnet = () => {
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/rebus" target="_blank"><h5>Rebus</h5></a>
                              <div className="item">
                             <a href="https://github.com/elangrr/ICW_GUIDE" target="_blank"><img src={meter21} alt="Image" /></a>
-                            <a href="https://github.com/elangrr/ICW_GUIDE" target="_blank"><h5>Juno</h5></a>
+                            <a href="https://github.com/elangrr/ICW_GUIDE" target="_blank"><h5>ICW CHAIN</h5></a>
                             </div>
                                 </div>
                                 <div className="item">
