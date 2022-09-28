@@ -18,6 +18,7 @@ import meter17 from "../assets/img/peaq.png";
 import meter18 from "../assets/img/juno.png";
 import meter19 from "../assets/img/rebus.png";
 import meter20 from "../assets/img/point.png";
+import meter21 from "../assets/img/icw.png";
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 import colorSharp from "../assets/img/color-sharp.png";
@@ -127,6 +128,10 @@ export const Testnet = () => {
                             <div className="item">
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/rebus" target="_blank"><img src={meter19} alt="Image" /></a>
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/rebus" target="_blank"><h5>Rebus</h5></a>
+                             <div className="item">
+                            <a href="https://github.com/elangrr/ICW_GUIDE" target="_blank"><img src={meter21} alt="Image" /></a>
+                            <a href="https://github.com/elangrr/ICW_GUIDE" target="_blank"><h5>Juno</h5></a>
+                            </div>
                                 </div>
                                 <div className="item">
                                 <a href="https://github.com/elangrr/testnet_manuals/tree/main/sui" target="_blank"><img src={meter16} alt="Image" /></a>
