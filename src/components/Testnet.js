@@ -58,7 +58,7 @@ export const Testnet = () => {
                         <a class="github-button" href="https://github.com/elangrr/testnet_guide/"  target="_blank" data-icon="octicon-star" data-size="large" data-show-count="true">Github Stars ⭐</a>
                         <br></br>
                         <br></br>
-                        <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider"/>
+                        <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                         <div className="item">
                             <a href="https://github.com/elangrr/testnet_guide/tree/main/icw" target="_blank"><img src={meter21} alt="Image" /></a>
                             <a href="https://github.com/elangrr/testnet_guide/tree/main/icw" target="_blank"><h5>ICW Chain ( Mainnet )</h5></a>
@@ -151,7 +151,7 @@ export const Testnet = () => {
                             <a href="https://github.com/elangrr/testnet_guide/tree/main/point" target="_blank"><img src={meter20} alt="Image" /></a>
                             <a href="https://github.com/elangrr/testnet_guide/tree/main/point" target="_blank"><h5>Point Network</h5></a>
                             </div>
-                        </Carousel>
+                        </Carousel/>
                     </div>
                 </div>
             </div>
