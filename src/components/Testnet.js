@@ -19,6 +19,8 @@ import meter18 from "../assets/img/juno.png";
 import meter19 from "../assets/img/rebus.png";
 import meter20 from "../assets/img/point.png";
 import meter21 from "../assets/img/icw.png";
+import meter22 from "../assets/img/lambda.png";
+import meter23 from "../assets/img/nulink.png";
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 import colorSharp from "../assets/img/color-sharp.png";
