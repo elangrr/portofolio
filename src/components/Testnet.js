@@ -87,7 +87,7 @@ export const Testnet = () => {
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/bundlr" target="_blank"> <img src={meter8} alt="Image" /></a>
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/bundlr" target="_blank"> <h5>Bundlr</h5></a>
                             </div>
-                            {<div className="item">
+                            <div className="item">
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/quicksilver" target="_blank"> <img src={meter7} alt="Image" /></a>
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/quicksilver" target="_blank"> <h5>Quicksilver</h5></a>
                             </div>}
@@ -151,6 +151,7 @@ export const Testnet = () => {
                                 <a href="https://github.com/elangrr/testnet_manuals/tree/main/point" target="_blank"><img src={meter20} alt="Image" /></a>
                                 <a href="https://github.com/elangrr/testnet_manuals/tree/main/spoint" target="_blank"><h5>Point Network</h5></a>
                             </div>
+                          </div>
                         </Carousel>
                     </div>
                 </div>
