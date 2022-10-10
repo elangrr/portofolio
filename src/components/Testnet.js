@@ -46,7 +46,7 @@ export const Testnet = () => {
       items: 1
     }
   };
-
+  
   return (
     <section className="testnet" id="testnet">
         <div className="container">
@@ -54,13 +54,12 @@ export const Testnet = () => {
                 <div className="col-12">
                     <div className="skill-bx wow zoomIn">
                         <h2> Testnet and Mainnet Guide✨</h2>
-                        <p>Here's the simply guide from various testnet below! </p>
-                        <a class="github-button" href="https://github.com/elangrr/testnet_manuals/"  target="_blank" data-icon="octicon-star" data-size="large" data-show-count="true">Github Stars ⭐</a>
+                        <p>Here's the simply guide from various testnets and mainnets below! </p>
+                        <a class="github-button" href="https://github.com/elangrr/testnet_guide/"  target="_blank" data-icon="octicon-star" data-size="large" data-show-count="true">Github Stars ⭐</a>
                         <br></br>
                         <br></br>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                         <div className="item">
-                            <div className="item">
                             <a href="https://github.com/elangrr/testnet_guide/tree/main/icw" target="_blank"><img src={meter21} alt="Image" /></a>
                             <a href="https://github.com/elangrr/testnet_guide/tree/main/icw" target="_blank"><h5>ICW Chain ( Mainnet )</h5></a>
                              </div>
