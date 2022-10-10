@@ -64,9 +64,11 @@ export const Testnet = () => {
                             <a href="https://github.com/elangrr/testnet_guide/tree/main/icw" target="_blank"><img src={meter21} alt="Image" /></a>
                             <a href="https://github.com/elangrr/testnet_guide/tree/main/icw" target="_blank"><h5>ICW Chain ( Mainnet )</h5></a>
                              </div>
+                            <div className="item">
                             <a href="https://github.com/elangrr/testnet_guide/tree/main/lambda" target="_blank"><img src={meter22} alt="Image" /></a>
                             <a href="https://github.com/elangrr/testnet_guide/tree/main/lambda" target="_blank"><h5>Lambda ( Mainnet )</h5></a>
                              </div>
+                            <div className="item">
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/stride" target="_blank">  <img src={meter3} alt="Image" /></a>
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/stride" target="_blank">  <h5>Stride ( Mainnet )</h5></a>
                             </div>
@@ -86,10 +88,10 @@ export const Testnet = () => {
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/bundlr" target="_blank"> <img src={meter8} alt="Image" /></a>
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/bundlr" target="_blank"> <h5>Bundlr</h5></a>
                             </div>
-                            {/* <div className="item">
+                            {<div className="item">
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/quicksilver" target="_blank"> <img src={meter7} alt="Image" /></a>
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/quicksilver" target="_blank"> <h5>Quicksilver</h5></a>
-                            </div> */}
+                            </div>}
                             <div className="item">
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/subquery" target="_blank"><img src={meter6} alt="Image" /></a>
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/subquery" target="_blank"> <h5>Subquery</h5></a>
