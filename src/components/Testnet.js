@@ -51,19 +51,30 @@ export const Testnet = () => {
             <div className="row">
                 <div className="col-12">
                     <div className="skill-bx wow zoomIn">
-                        <h2> Testnet Guide✨</h2>
+                        <h2> Testnet and Mainnet Guide✨</h2>
                         <p>Here's the simply guide from various testnet below! </p>
                         <a class="github-button" href="https://github.com/elangrr/testnet_manuals/"  target="_blank" data-icon="octicon-star" data-size="large" data-show-count="true">Github Stars ⭐</a>
                         <br></br>
                         <br></br>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                         <div className="item">
+                            <div className="item">
+                            <a href="https://github.com/elangrr/testnet_guide/tree/main/icw" target="_blank"><img src={meter21} alt="Image" /></a>
+                            <a href="https://github.com/elangrr/testnet_guide/tree/main/icw" target="_blank"><h5>ICW Chain ( Mainnet )</h5></a>
+                             </div>
+                            <a href="https://github.com/elangrr/testnet_guide/tree/main/lambda" target="_blank"><img src={meter22} alt="Image" /></a>
+                            <a href="https://github.com/elangrr/testnet_guide/tree/main/lambda" target="_blank"><h5>Lambda ( Mainnet )</h5></a>
+                             </div>
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/stride" target="_blank">  <img src={meter3} alt="Image" /></a>
-                            <a href="https://github.com/elangrr/testnet_manuals/tree/main/stride" target="_blank">  <h5>Stride</h5></a>
+                            <a href="https://github.com/elangrr/testnet_manuals/tree/main/stride" target="_blank">  <h5>Stride ( Mainnet )</h5></a>
                             </div>
                             <div className="item">
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/tidechain" target="_blank"> <img src={meter1} alt="Image" /></a>
-                            <a href="https://github.com/elangrr/testnet_manuals/tree/main/tidechain" target="_blank">  <h5>Tidechain</h5></a>
+                            <a href="https://github.com/elangrr/testnet_manuals/tree/main/tidechain" target="_blank">  <h5>Tidechain ( Mainnet )</h5></a>
+                            </div>
+                            <div className="item">
+                            <a href="https://github.com/elangrr/testnet_guide/tree/main/nulink" target="_blank"> <img src={meter23} alt="Image" /></a>
+                            <a href="https://github.com/elangrr/testnet_guide/tree/main/nulink" target="_blank"> <h5>Nulink</h5></a>
                             </div>
                             <div className="item">
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/main/sei" target="_blank"> <img src={meter2} alt="Image" /></a>
@@ -128,10 +139,6 @@ export const Testnet = () => {
                             <div className="item">
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/rebus" target="_blank"><img src={meter19} alt="Image" /></a>
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/rebus" target="_blank"><h5>Rebus</h5></a>
-                            </div>
-                            <div className="item">
-                            <a href="https://github.com/elangrr/ICW_GUIDE" target="_blank"><img src={meter21} alt="Image" /></a>
-                            <a href="https://github.com/elangrr/ICW_GUIDE" target="_blank"><h5>ICW CHAIN</h5></a>
                                 </div>
                                 <div className="item">
                                 <a href="https://github.com/elangrr/testnet_manuals/tree/main/sui" target="_blank"><img src={meter16} alt="Image" /></a>
