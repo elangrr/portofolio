@@ -58,7 +58,7 @@ export const Testnet = () => {
                         <a class="github-button" href="https://github.com/elangrr/testnet_guide/"  target="_blank" data-icon="octicon-star" data-size="large" data-show-count="true">Github Stars ⭐</a>
                         <br></br>
                         <br></br>
-                        <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
+                        <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider"/>
                         <div className="item">
                             <a href="https://github.com/elangrr/testnet_guide/tree/main/icw" target="_blank"><img src={meter21} alt="Image" /></a>
                             <a href="https://github.com/elangrr/testnet_guide/tree/main/icw" target="_blank"><h5>ICW Chain ( Mainnet )</h5></a>
@@ -90,7 +90,7 @@ export const Testnet = () => {
                             <div className="item">
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/quicksilver" target="_blank"> <img src={meter7} alt="Image" /></a>
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/quicksilver" target="_blank"> <h5>Quicksilver</h5></a>
-                            </div>}
+                            </div>
                             <div className="item">
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/subquery" target="_blank"><img src={meter6} alt="Image" /></a>
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/subquery" target="_blank"> <h5>Subquery</h5></a>
@@ -142,16 +142,15 @@ export const Testnet = () => {
                             <div className="item">
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/rebus" target="_blank"><img src={meter19} alt="Image" /></a>
                             <a href="https://github.com/elangrr/testnet_manuals/tree/main/rebus" target="_blank"><h5>Rebus</h5></a>
-                                </div>
-                                <div className="item">
-                                <a href="https://github.com/elangrr/testnet_manuals/tree/main/sui" target="_blank"><img src={meter16} alt="Image" /></a>
-                                <a href="https://github.com/elangrr/testnet_manuals/tree/main/sui" target="_blank"><h5>Sui Network</h5></a>
-                           </div>
-                                <div className="item">
-                                <a href="https://github.com/elangrr/testnet_manuals/tree/main/point" target="_blank"><img src={meter20} alt="Image" /></a>
-                                <a href="https://github.com/elangrr/testnet_manuals/tree/main/spoint" target="_blank"><h5>Point Network</h5></a>
                             </div>
-                          </div>
+                            <div className="item">
+                            <a href="https://github.com/elangrr/testnet_manuals/tree/main/sui" target="_blank"><img src={meter16} alt="Image" /></a>
+                            <a href="https://github.com/elangrr/testnet_manuals/tree/main/sui" target="_blank"><h5>Sui Network</h5></a>
+                           </div>
+                            <div className="item">
+                            <a href="https://github.com/elangrr/testnet_guide/tree/main/point" target="_blank"><img src={meter20} alt="Image" /></a>
+                            <a href="https://github.com/elangrr/testnet_guide/tree/main/point" target="_blank"><h5>Point Network</h5></a>
+                            </div>
                         </Carousel>
                     </div>
                 </div>
