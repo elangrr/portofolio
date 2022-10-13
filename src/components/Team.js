@@ -29,7 +29,7 @@ export const Team = () => {
                 <br></br>
                 <br></br>
                 <center><h2>Team</h2>
-                <p>Cheap and Reliable quality</p>
+                <p>Best Uptime and Competent</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                   </Nav>
