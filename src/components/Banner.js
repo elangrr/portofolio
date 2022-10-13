@@ -13,7 +13,7 @@ export const Banner = () => {
   const [text, setText] = useState('');
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   const [index, setIndex] = useState(1);
-  const toRotate = [ "Crypto enthusiast with talented skill in blockchain" ];
+  const toRotate = [ "Crypto enthusiast with 2 years experience in Blockchain" ];
   const period = 2000;
   const current = new Date();
   const date = `${current.getDate()}-${current.getMonth()+1}-${current.getFullYear()}`;
@@ -61,9 +61,9 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">{date}</span>
                 <h1>{`Indonode.dev`} </h1>
-                  <h4>Independent node runner / validator from Indonesia</h4>
+                  <h4>Part of NodeX Capital Team and Validator from Indonesia</h4>
                   <br></br>
-                  <i><q>Reliable , Decentralized , Cheap , Talented.</q></i>
+                  <i><q>Reliable and Best Uptime.</q></i>
               </div>}
             </TrackVisibility>
           </Col>
