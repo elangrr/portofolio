@@ -50,7 +50,7 @@ export const Testnet = () => {
                 <div className="col-12">
                     <div className="skill-bx wow zoomIn">
                         <h2> Testnet and Mainnet Guide✨</h2>
-                        <p>Here's the simply guide from various testnet below! </p>
+                        <p>Here's the simple guide from various mainnets and testnets! </p>
                         <a class="github-button" href="https://github.com/elangrr/testnet_guide"  target="_blank" data-icon="octicon-star" data-size="large" data-show-count="true">Github Stars ⭐</a>
                         <br></br>
                         <br></br>
