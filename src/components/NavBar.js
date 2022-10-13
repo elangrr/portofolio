@@ -58,7 +58,7 @@ export const NavBar = () => {
             <span className="navbar-text">
               <div className="social-icon">
                 <a href="https://discordapp.com/users/890508491519836191" target="_blank"><img src={navIcon3} alt="Discord" /></a>
-                <a href="https://github.com/elangrr/testnet_manuals/"target="_blank"><img src={navIcon2} alt="Github" /></a>
+                <a href="https://github.com/elangrr/testnet_guide/"target="_blank"><img src={navIcon2} alt="Github" /></a>
                 <a href="https://twitter.com/" target="_blank"><img src={navIcon1} alt="Twitter" /></a>
                 <a href="https://youtube.com" target="_blank"><img src={navIcon4} alt="Youtube" /></a>
                 </div>
